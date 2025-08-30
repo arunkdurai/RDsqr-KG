@@ -21,10 +21,10 @@ The lack of potential treatment candidates is a critical issue in managing rare 
 
 Create two additional folders within RD<sup>2</sup>-KG
 * Datasets/ – This folder should contain all the raw datasets required for the project.
-Download the datasets and place them in their respective subfolders before running any scripts.
+Place all the raw datasets into their respective subfolders prior to running the preprocessing scripts.
 
 * Preprocessed_datasets/ – This folder stores all intermediate and processed files generated from the preprocessing scripts.
-Running the preprocessing pipeline will automatically generate and save outputs here.
+Running the preprocessing pipeline will automatically generate and save outputs here. 
 
 ## Data Sources
 RD<sup>2</sup>-KG integrates biological interactions from top public databases (see publication for full list), ensuring comprehensive representation of the biomedical landscape.
